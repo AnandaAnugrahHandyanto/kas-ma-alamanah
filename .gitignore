@@ -1,0 +1,25 @@
+# Database credentials
+koneksi.php
+
+# Sensitive information
+.env
+.DS_Store
+*.log
+Thumbs.db
+
+# Cache/Temporary files
+temp/
+cache/
+uploads/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+.history/
+*.swp
+*.swo
+
+# Project documentation
+*.docx
+*.txt
+*.md
